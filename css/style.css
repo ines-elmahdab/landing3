@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Sansita+Swashed:wght@700&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Oswald' sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #E4E3E3;
+}
+
+h1, h2, h3 {
+	font-family: 'Sansita Swashed' cursive;
+	font-size: bold;
+}
+
+a {
+	text-decoration: none;
+}
